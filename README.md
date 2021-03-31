@@ -1,6 +1,6 @@
 # HackerEarth Machine Learning Challenge: Predict the cost to ship the sculpture
 
-### Used sklearn for data preprocessing and implemented Support Vector Regression with Hyper Parameter Tuning. 
+### Used sklearn for data preprocessing and implementation of Support Vector Regression with Hyper Parameter Tuning. 
 
 # Secured rank in top 10% among 3900+ participants
 
